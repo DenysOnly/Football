@@ -1,16 +1,17 @@
-  .Name 
+.Name 
         {
             height: 70px;
         }
-  .bad-script-regular {
+.bad-script-regular {
 	font-family: "Bad Script", cursive;
 	font-weight: 100%;
 	font-style: normal;
 	height: 100%;
-  h1 {
+}
+h1 {
        font-size: 70px; 
        font-family: Verdana, Arial, Helvetica, sans-serif; 
        color: #333366;
        text-align: center;
-       backdrop-color: whitesmoke; 
+       backdrop-color: whitesmoke;
      }
