@@ -7,15 +7,17 @@ h1 {
      }
 .Name 
         {
-            height: 80px;
+            height: 70px;
         }
 .bad-script-regular {
     font-family: "Bad Script", cursive;
     font-weight: 100%;
     font-style: normal;
     height: 100%;
+    backdrop-color:
 }
 .posl
         {
-            height: 60px;
+            height: 50px;
+            font-size: 50px;
         }
