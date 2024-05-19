@@ -1,5 +1,5 @@
 h1 {
-       font-size: 70px; 
+       font-size: 50px; 
        font-family: Verdana, Arial, Helvetica, sans-serif; 
        color: #333366;
        text-align: center;
@@ -15,3 +15,7 @@ h1 {
     font-style: normal;
     height: 100%;
 }
+.posl
+        {
+            height: 50px;
+        }
