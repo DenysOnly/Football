@@ -1,3 +1,10 @@
+h1 {
+       font-size: 50px; 
+       font-family: Verdana, Arial, Helvetica, sans-serif; 
+       color: #333366;
+       text-align: center;
+       backdrop-color: whitesmoke;
+     }
 .Name 
         {
             height: 70px;
