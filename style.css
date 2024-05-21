@@ -65,9 +65,10 @@ h1 {
     display: inline-table;
     width: 20%;
     font-size: 25px;
+    background: #008B8B
 }
 .zagl {
     font-size: 30px;
     color: #333366;
-    background: #6495ED
+    background: #4169E1
 }
