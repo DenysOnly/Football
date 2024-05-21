@@ -55,3 +55,12 @@ h1 {
 .text7 {
     font-size: 25px;
 }
+.menu {
+    text-align: center;
+}
+.menu li
+{
+    list-style-type: none;
+    display: inline-table;
+    width: 20%;
+}
